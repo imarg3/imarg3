@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+  <samp>
+I'm Arpit Gupta. A Full Stack Developer & DevOps Engineer from Pune, India. I am not a great programmer but a good programmer with great habits. Love to workin Open Source technologies.
+    <br><br>Contact me on <a href="https://in.linkedin.com/in/arpitram3" target="_blank">LinkedIn</a> or <a href="https://twitter.com/@arpitram3" target=_blank">Twitter</a> or or <a href="mailto&#58;m&#97;i&#108;&#64;su&#114;&#106;&#105;&#116;&#37;68%63tly&#46;i%6E">Send an Email</a>
+  </samp>
+</p>
+
 <!--
 **imarg3/imarg3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
