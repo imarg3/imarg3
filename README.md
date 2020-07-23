@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
   <samp>
-I'm Arpit Gupta. A Full Stack Developer & DevOps Engineer from Pune, India. I am not a great programmer but a good programmer with great habits. Love to work in Open Source technologies.
+I'm Arpit Gupta. A Technologist from Pune, India who primarily works as a Full Stack Developer & DevOps Engineer. I am not a great programmer but a good programmer with great habits. Love to work in Open Source technologies.
     <br><br>Contact me on <a href="https://in.linkedin.com/in/arpitram3" target="_blank">LinkedIn</a> or <a href="https://twitter.com/@arpitram3" target=_blank">Twitter</a> or <a href="mailto:gupta.arpit03@gmail.com">Send an Email</a>
       <br><br>For more information about my work, please visit <a href="https://www.arpitram.com" target="_blank">www.arpitram.com</a> or <a href="www.arpitram.in" target="_blank">www.arpitram.in</a>
   </samp>
